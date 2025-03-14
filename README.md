@@ -15,4 +15,5 @@ Important :
 (1) Ce Tools est CopyRight !! ( Seul Ceux qui ont la Permission de le copier peuvent ).
 
 ENG : This tool is made for Educational Purposes and Educational Purposes ONLY.
+
 FR : Cet outil est fait pour des buts Éducatifs et des buts Éducatifs SEULEMENT.
