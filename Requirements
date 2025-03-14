@@ -1,0 +1,12 @@
+Module Besoin pour le Discord-MultiTools :
+
+colorama
+ipinfo
+os
+requests
+time
+re
+json
+ipaddress
+system
+discord
